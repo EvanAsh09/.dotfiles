@@ -1,0 +1,7 @@
+https://github.com/EvanAsh09/.dotfiles
+
+I didn't think this homework assignment was too difficult because I've used GitHub in past classes and I've become more acquainted with it. I
+had some trouble when using the command prompt on my laptop so I decided to just do it in the lab room. I also was'nt sure if i should've used 
+a .vimrc file or a .nanorc file because of the 4.3 section but I ended up just using the .nanorc file. Overall the instructions were clear 
+which made it easier to figure everything out. I also forgot to remember all of teh commands I did in section 4. 
+
